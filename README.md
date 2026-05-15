@@ -70,3 +70,11 @@ A gamified competitive programming platform with XP systems, leaderboards, AI-po
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanjust&layout=compact&theme=radical&hide_border=true)
 
 </div>
+
+## Codeforces
+
+<div align="center">
+
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Ahsan_)
+
+</div>
