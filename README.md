@@ -2,7 +2,7 @@
 
 # Ahsanul Haque
 
-**Competitive Programmer · Full-Stack Developer · CSE @ JUST**
+**Competitive Programmer · CSE @ JUST**
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-Expert_1750-1f8acb?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ahsan_)
 [![CodeChef](https://img.shields.io/badge/CodeChef-4★_1900-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/ahsanul_haque)
@@ -17,12 +17,12 @@
 
 ## About Me
 
-I'm a CSE student at **Jessore University of Science and Technology** (expected 2027) passionate about competitive programming and full-stack development.
+CSE student at **Jessore University of Science and Technology** (expected 2027). Competitive programmer with a passion for problem-solving and algorithmic thinking.
 
 - **4500+** problems solved across online judges
 - **ICPC Asia Dhaka Regional 2025** — 34th place
-- **Champion** at JUST IDPC (internal ICPC)
-- **Teaching Assistant** at CPS Academy — mentoring students in CP
+- **Champion** at JUST IDPC
+- **Teaching Assistant** at CPS Academy
 
 ## Competitive Programming
 
@@ -40,32 +40,33 @@ I'm a CSE student at **Jessore University of Science and Technology** (expected 
 - **BUET IUPC 2026** — 16th place
 - Participated in **11+ on-site IUPCs** nationally
 
+## Skills
+
+**Languages:** C++, C, Java, Python, HTML, CSS
+
+**Database:** MySQL
+
+**Tools:** Git, GitHub, VS Code, Linux (Ubuntu)
+
 ## Projects
 
-### [CP Leveling](https://github.com/ahsanjust/cp-leveling) — *Featured Project*
-A gamified competitive programming platform with AI-powered mentoring, XP & leveling systems, Codeforces integration, brain training games, and an admin dashboard. Built with **Next.js 16, TypeScript, Prisma, TailwindCSS v4, NextAuth**.
-
 ### [CP Code Library](https://github.com/ahsanjust/Code-library)
-A curated collection of competitive programming templates, algorithms, and data structures in C++ — used in contests and practice.
+Collection of competitive programming templates, algorithms, and data structures in C++ — used in contests and practice.
 
-## Tech Stack
-
-**Languages:** C++, C, Java, Python, TypeScript, JavaScript, HTML, CSS
-
-**Frameworks & Tools:** Next.js, Prisma, TailwindCSS, Node.js, Express, Git, Docker, Linux, PostgreSQL, SQLite, Zustand, TanStack Query
+### [CP Leveling](https://github.com/ahsanjust/cp-leveling)
+A gamified competitive programming platform with XP systems, leaderboards, AI-powered mentoring, and Codeforces integration.
 
 ## Experience
 
-- **Teaching Assistant @ CPS Academy** (Feb 2025 – Present) — debugging, mentoring, and guiding students in CP
-- **Problem Setter @ JUST ACM Laboratory** (2024 – Present) — setting problems for contests, mentoring juniors
-- **YouTube Creator** — [publishing CP screencasts](https://www.youtube.com/@A_h_s_a_n_1) with commentary
+- **Teaching Assistant @ CPS Academy** (Feb 2025 – Present) — debugging and mentoring students in competitive programming
+- **Problem Setter @ JUST ACM Laboratory** (2024 – Present) — setting problems and coordinating contests
+- **YouTube Creator** — [screencasts of live CP contests](https://www.youtube.com/@A_h_s_a_n_1) with commentary
 
 ## GitHub Stats
 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahsanjust&show_icons=true&theme=radical&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahsanjust&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanjust&layout=compact&theme=radical&hide_border=true)
 
 </div>
