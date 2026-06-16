@@ -1,176 +1,85 @@
-<h1 align="center">Hey 👋, I'm Ahsanul Haque</h1>
+<h1 align="center">Ahsanul Haque</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=2ECC71&center=true&vCenter=true&multiline=true&repeat=true&width=500&lines=Competitive+Programmer;Problem+Solver;Teaching+Assistant;Open+Source+Contributor" alt="Typing SVG" />
+  <i>CSE @ Jessore University of Science and Technology</i>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahsanul-haque-8b2485379/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.youtube.com/@A_h_s_a_n_1">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="mailto:ahsanulhaque5588@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=ahsanjust&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <a href="https://codeforces.com/profile/Ahsan_"><img src="https://img.shields.io/badge/Codeforces-Expert_1750-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/ahsanul_haque"><img src="https://img.shields.io/badge/CodeChef-4★_1900-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Ahsanul_haque_/"><img src="https://img.shields.io/badge/LeetCode-Guardian_2142-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahsanul-haque-8b2485379/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@A_h_s_a_n_1"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
+  <a href="mailto:ahsanulhaque5588@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ahsanjust&color=blueviolet&style=flat-square" />
 </p>
 
 ---
-
-### 🧑‍💻 About Me
-
-```python
-class AhsanulHaque:
-    def __init__(self):
-        self.education = "CSE @ Jessore University of Science and Technology"
-        self.year = "Expected 2027"
-        self.role = "Teaching Assistant @ CPS Academy"
-        self.cp_problems_solved = "4500+"
-        self.icpc = "ICPC Asia Dhaka Regionalist"
-        self.iupc = "11+ On-site IUPCs"
-        self.interests = ["Algorithms", "Data Structures", "Problem Setting", "Mentoring"]
-```
-
----
-
-### 🏆 Competitive Programming
-
-<p align="center">
-  <a href="https://codeforces.com/profile/Ahsan_"><img src="https://img.shields.io/badge/Codeforces-Expert_1750-1f8acb?style=flat-square&logo=codeforces&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/ahsanul_haque"><img src="https://img.shields.io/badge/CodeChef-4★_1900-5B4638?style=flat-square&logo=codechef&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/Ahsanul_haque_/"><img src="https://img.shields.io/badge/LeetCode-Guardian_2142-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
-</p>
 
 <table>
 <tr>
-<td align="center" width="33%">
-  <a href="https://codeforces.com/profile/Ahsan_">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Ahsan_&theme=radical&hide_border=true" />
-  </a>
+<td width="60%">
+
+### About Me
+
+```
+Competitive Programmer | 4500+ problems solved
+ICPC Asia Dhaka Regionalist | 11+ On-site IUPCs
+Teaching Assistant @ CPS Academy
+Problem Setter @ JUST ACM Laboratory
+```
+
 </td>
-<td align="center" width="34%">
-  <a href="https://codeforces.com/profile/Ahsan_">
-    <img src="https://codeforces-readme-stats.vercel.app/api/top-tags?username=Ahsan_&theme=radical&hide_border=true" />
-  </a>
-</td>
-<td align="center" width="33%">
-  <a href="https://codeforces.com/profile/Ahsan_">
-    <img src="https://codeforces-readme-stats.vercel.app/api/max-rating?username=Ahsan_&theme=radical&hide_border=true" />
-  </a>
+<td width="40%" align="center">
+
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Ahsan_&theme=radical&hide_border=true)
+
 </td>
 </tr>
 </table>
 
 ---
 
-### 🥇 Contests & Achievements
-
-<div align="center">
+### Contests & Achievements
 
 | Competition | Placement | Team |
 |:-----------:|:---------:|:----:|
-| **ICPC Asia Dhaka 2025** | 🏅 34th | JUST_ORIONS |
-| **ICPC Asia Dhaka 2024** | 🏅 63rd | JUST_TRIPLE_HELIX |
-| **NWU IUPC 2025** | 🥈 1st Runner-Up | — |
-| **BUET IUPC 2026** | 🏅 16th | — |
-| **KU KRIUPC 2024** | 🏅 7th | — |
-| **JUST IDPC** | 🏆 Champion | — |
-
-</div>
+| **ICPC Asia Dhaka 2025** | 34th | JUST_ORIONS |
+| **ICPC Asia Dhaka 2024** | 63rd | JUST_TRIPLE_HELIX |
+| **NWU IUPC 2025** | 1st Runner-Up | — |
+| **BUET IUPC 2026** | 16th | — |
+| **KU KRIUPC 2024** | 7th | — |
+| **JUST IDPC** | Champion | — |
 
 ---
 
-### 🚀 Projects
+### Projects
 
-<table>
-<tr>
-<td width="50%">
-
-#### [📦 CP Code Library](https://github.com/ahsanjust/Code-library)
-Battle-tested competitive programming templates, algorithms, and data structures in C++.
-
-`C++` `STL` `Algorithms`
-
-Used across **100+ contests**.
-
-</td>
-<td width="50%">
-
-#### [🎮 CP Leveling](https://github.com/ahsanjust/cp-leveling)
-Gamified CP platform with XP systems, leaderboards, AI-powered mentoring, and Codeforces integration.
-
-`Node.js` `React` `Codeforces API`
-
-Features: Gamification · Analytics · AI Mentoring
-
-</td>
-</tr>
-<tr>
-<td>
-
-#### [📚 Library Management System](https://github.com/ahsanjust/LibraryManagementSystem)
-Full-stack library management system.
-
-`Java` `MySQL`
-
-</td>
-<td>
-
-#### [💰 Salary Management Web](https://github.com/ahsanjust/SalaryManagementWeb)
-Web-based salary management application.
-
-`Web` `Management`
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-#### [🎓 Thesis](https://github.com/ahsanjust/Thesis)
-Research project for academic requirements.
-
-</td>
-</tr>
-</table>
+| Project | Description | Tech |
+|:-------:|:-----------:|:----:|
+| [CP Code Library](https://github.com/ahsanjust/Code-library) | Templates, algorithms & data structures used in 100+ contests | `C++` |
+| [CP Leveling](https://github.com/ahsanjust/cp-leveling) | Gamified CP platform with AI mentoring & Codeforces integration | `Node.js` `React` |
+| [Library Management System](https://github.com/ahsanjust/LibraryManagementSystem) | Full-stack library management with auth | `Java` `MySQL` |
+| [Salary Management Web](https://github.com/ahsanjust/SalaryManagementWeb) | Web-based salary management | `ASP.NET` |
+| [Salary Manager](https://github.com/ahsanjust/SalaryManager) | Desktop app for teacher salary management | `C#` `.NET` |
+| [Thesis](https://github.com/ahsanjust/Thesis) | University research project | — |
 
 ---
 
-### 👨‍🏫 Experience
+### Experience
 
-<table>
-<tr>
-<td>
-
-**Teaching Assistant** · *CPS Academy*
-<br>
-<small>Feb 2025 – Present</small>
-
-- Mentoring students in competitive programming
-- Debugging code and explaining algorithms
-- Helping students improve problem-solving skills
-
-</td>
-<td>
-
-**Problem Setter** · *JUST ACM Laboratory*
-<br>
-<small>2024 – Present</small>
-
-- Designing contest problems
-- Coordinating intra-university contests
-- Creating test cases and editorial solutions
-
-</td>
-</tr>
-</table>
-
-**🎥 YouTube** — [Live CP Contest Screencasts](https://www.youtube.com/@A_h_s_a_n_1) · Live commentary · Problem walkthroughs · Educational content
+| Role | Organization | Duration |
+|:----:|:------------:|:--------:|
+| **Teaching Assistant** | CPS Academy | Feb 2025 – Present |
+| **Problem Setter** | JUST ACM Laboratory | 2024 – Present |
+| **YouTube Creator** | [CP Screencasts](https://www.youtube.com/@A_h_s_a_n_1) | — |
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <div align="center">
 
@@ -178,6 +87,8 @@ Research project for academic requirements.
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
@@ -186,8 +97,6 @@ Research project for academic requirements.
 </div>
 
 ---
-
-### 📊 GitHub Activity
 
 <div align="center">
 
@@ -204,24 +113,7 @@ Research project for academic requirements.
 
 <div align="center">
 
-![Contribution Graph](https://raw.githubusercontent.com/ahsanjust/ahsanjust/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-### 💡 Tech Stack
-
-<div align="center">
-
-[![C++](https://skills.thijs.dev/icons?i=cpp&theme=dark)](#)
-[![C](https://skills.thijs.dev/icons?i=c&theme=dark)](#)
-[![Java](https://skills.thijs.dev/icons?i=java&theme=dark)](#)
-[![Python](https://skills.thijs.dev/icons?i=python&theme=dark)](#)
-[![Node.js](https://skills.thijs.dev/icons?i=nodejs&theme=dark)](#)
-[![React](https://skills.thijs.dev/icons?i=react&theme=dark)](#)
-[![TypeScript](https://skills.thijs.dev/icons?i=typescript&theme=dark)](#)
-[![MySQL](https://skills.thijs.dev/icons?i=mysql&theme=dark)](#)
-[![Git](https://skills.thijs.dev/icons?i=git&theme=dark)](#)
-[![Linux](https://skills.thijs.dev/icons?i=linux&theme=dark)](#)
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -230,9 +122,5 @@ Research project for academic requirements.
 <div align="center">
 
 *"Success in competitive programming is not about talent — it's about persistence, practice, and passion."*
-
-<a href="https://github.com/ahsanjust">
-<img src="https://komarev.com/ghpvc/?username=ahsanjust&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</a>
 
 </div>
