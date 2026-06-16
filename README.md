@@ -224,7 +224,24 @@ Research project for academic requirements.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+![Contribution Graph](https://raw.githubusercontent.com/ahsanjust/ahsanjust/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+### 💡 Tech Stack
+
+<div align="center">
+
+[![C++](https://skills.thijs.dev/icons?i=cpp&theme=dark)](#)
+[![C](https://skills.thijs.dev/icons?i=c&theme=dark)](#)
+[![Java](https://skills.thijs.dev/icons?i=java&theme=dark)](#)
+[![Python](https://skills.thijs.dev/icons?i=python&theme=dark)](#)
+[![Node.js](https://skills.thijs.dev/icons?i=nodejs&theme=dark)](#)
+[![React](https://skills.thijs.dev/icons?i=react&theme=dark)](#)
+[![TypeScript](https://skills.thijs.dev/icons?i=typescript&theme=dark)](#)
+[![MySQL](https://skills.thijs.dev/icons?i=mysql&theme=dark)](#)
+[![Git](https://skills.thijs.dev/icons?i=git&theme=dark)](#)
+[![Linux](https://skills.thijs.dev/icons?i=linux&theme=dark)](#)
 
 </div>
 
