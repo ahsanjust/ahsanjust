@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://codeforces.com/profile/Ahsan_"><img src="https://img.shields.io/badge/Codeforces-Expert_1750-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/Ahsan_"><img src="https://img.shields.io/badge/Codeforces-Expert_1761-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
   <a href="https://www.codechef.com/users/ahsanul_haque"><img src="https://img.shields.io/badge/CodeChef-4★_1900-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
   <a href="https://leetcode.com/u/Ahsanul_haque_/"><img src="https://img.shields.io/badge/LeetCode-Guardian_2142-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
