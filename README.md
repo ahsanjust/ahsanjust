@@ -37,48 +37,28 @@ class AhsanulHaque:
 
 ### 🏆 Competitive Programming
 
-<div align="center">
-
-<a href="https://codeforces.com/profile/Ahsan_">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Ahsan_&theme=radical&hide_border=true" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://codeforces.com/profile/Ahsan_"><img src="https://img.shields.io/badge/Codeforces-Expert_1750-1f8acb?style=flat-square&logo=codeforces&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/ahsanul_haque"><img src="https://img.shields.io/badge/CodeChef-4★_1900-5B4638?style=flat-square&logo=codechef&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Ahsanul_haque_/"><img src="https://img.shields.io/badge/LeetCode-Guardian_2142-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
+</p>
 
 <table>
 <tr>
 <td align="center" width="33%">
-
-**Codeforces**
-<br>
-<a href="https://codeforces.com/profile/Ahsan_">
-<img src="https://img.shields.io/badge/Codeforces-Expert-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" />
-</a>
-<br>
-<b>1750</b> · Expert
-
+  <a href="https://codeforces.com/profile/Ahsan_">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Ahsan_&theme=radical&hide_border=true" />
+  </a>
 </td>
 <td align="center" width="34%">
-
-**CodeChef**
-<br>
-<a href="https://www.codechef.com/users/ahsanul_haque">
-<img src="https://img.shields.io/badge/CodeChef-4★-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
-<br>
-<b>1900</b> · 4★
-
+  <a href="https://codeforces.com/profile/Ahsan_">
+    <img src="https://codeforces-readme-stats.vercel.app/api/top-tags?username=Ahsan_&theme=radical&hide_border=true" />
+  </a>
 </td>
 <td align="center" width="33%">
-
-**LeetCode**
-<br>
-<a href="https://leetcode.com/u/Ahsanul_haque_/">
-<img src="https://img.shields.io/badge/LeetCode-Guardian-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-<br>
-<b>2142</b> · Top 1.24%
-
+  <a href="https://codeforces.com/profile/Ahsan_">
+    <img src="https://codeforces-readme-stats.vercel.app/api/max-rating?username=Ahsan_&theme=radical&hide_border=true" />
+  </a>
 </td>
 </tr>
 </table>
