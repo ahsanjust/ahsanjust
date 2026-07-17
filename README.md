@@ -138,7 +138,6 @@ roles:
 | [**Library Management System**](https://github.com/ahsanjust/LibraryManagementSystem) | Full-stack library management with auth & responsive design | `Java` `MySQL` |
 | [**Salary Management Web**](https://github.com/ahsanjust/SalaryManagementWeb) | Web-based teacher salary management system | `ASP.NET` |
 | [**Salary Manager**](https://github.com/ahsanjust/SalaryManager) | Desktop app for teacher salary information management | `C#` `.NET` |
-| [**Thesis**](https://github.com/ahsanjust/Thesis) | University research project | — |
 
 ---
 
