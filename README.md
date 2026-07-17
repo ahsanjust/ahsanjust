@@ -111,8 +111,7 @@ roles:
 |:--------:|:------------|
 | **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
 | **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
 
 </div>
@@ -134,7 +133,7 @@ roles:
 | Project | Description | Tech Stack |
 |:-------:|:-----------|:----------:|
 | [**CP Code Library**](https://github.com/ahsanjust/Code-library) | Curated collection of templates, algorithms & data structures used across 100+ contests | `C++` |
-| [**CP Leveling**](https://github.com/ahsanjust/cp-leveling) | Gamified CP platform with AI-powered mentoring, XP system & CF integration | `Node.js` `React` |
+| [**CP Leveling**](https://github.com/ahsanjust/cp-leveling) | Gamified CP platform with AI-powered mentoring, XP system & CF integration | — |
 | [**Library Management System**](https://github.com/ahsanjust/LibraryManagementSystem) | Full-stack library management with auth & responsive design | `Java` `MySQL` |
 | [**Salary Management Web**](https://github.com/ahsanjust/SalaryManagementWeb) | Web-based teacher salary management system | `ASP.NET` |
 | [**Salary Manager**](https://github.com/ahsanjust/SalaryManager) | Desktop app for teacher salary information management | `C#` `.NET` |
