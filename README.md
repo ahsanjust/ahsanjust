@@ -134,9 +134,8 @@ roles:
 |:-------:|:-----------|:----------:|
 | [**CP Code Library**](https://github.com/ahsanjust/Code-library) | Curated collection of templates, algorithms & data structures used across 100+ contests | `C++` |
 | [**CP Leveling**](https://github.com/ahsanjust/cp-leveling) | Gamified CP platform with AI-powered mentoring, XP system & CF integration | — |
-| [**Library Management System**](https://github.com/ahsanjust/LibraryManagementSystem) | Full-stack library management with auth & responsive design | `Java` `MySQL` |
-| [**Salary Management Web**](https://github.com/ahsanjust/SalaryManagementWeb) | Web-based teacher salary management system | `ASP.NET` |
-| [**Salary Manager**](https://github.com/ahsanjust/SalaryManager) | Desktop app for teacher salary information management | `C#` `.NET` |
+| [**Library Management System**](https://github.com/ahsanjust/LibraryManagementSystem) | Full-stack library management with auth & responsive design | `SQLite` |
+| [**Salary Manager**](https://github.com/ahsanjust/SalaryManager) | Desktop app for managing teacher salary information | `C#` `.NET` |
 
 ---
 
