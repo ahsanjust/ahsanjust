@@ -99,7 +99,7 @@ roles:
 |:------:|:-----------:|:----:|:----:|
 | **B.Sc. in CSE** | Jashore University of Science & Technology | 2023 – 2027 (Expected) | **3.52 / 4.00** |
 
-**Relevant Coursework:** Data Structures & Algorithms, Database Systems, OOP, Operating Systems, Computer Networks
+**Relevant Coursework:** Data Structures & Algorithms, Database Systems, OOP, Operating Systems, Computer Networks, Compiler Design, Automata Theory
 
 ---
 
