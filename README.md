@@ -83,8 +83,8 @@ roles:
 | **NDUB IUPC 2026** | 11th | JUST_ORIONS |
 | **DUET IUPC 2026** | 15th | JUST_ORIONS |
 | **SUST IUPC 2026** | 13th | JUST_ORIONS |
-| **DUET IUPC 2025** | 19th | — |
-| **MU IUPC 2025** | 37th | — |
+| **DUET IUPC 2025** | 19th | JUST_FLARE |
+| **MU IUPC 2025** | 37th | JUST_ORIONS |
 
 #### Individual Achievements
 - 🏆 **Champion** — JUST ACM Lab Farewell Contest (Senior Category, 2026)
