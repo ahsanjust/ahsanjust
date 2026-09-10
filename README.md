@@ -1,161 +1,92 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=435&lines=Ahsanul+Haque;Competitive+Programmer;ICPC+Regionalist;CP+Enthusiast" alt="Typing SVG" />
-  <br/>
-  <sub><i>CSE @ Jashore University of Science and Technology</i></sub>
-</div>
+  <h1>Ahsanul Haque</h1>
+  <p><strong>Computer Science & Engineering Student @ JUST • ICPC Regionalist • Competitive Programmer</strong></p>
 
-<br/>
+  <p>
+    <a href="https://codeforces.com/profile/Ahsan_"><img src="https://img.shields.io/badge/Codeforces-Expert%201774-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+    <a href="https://leetcode.com/u/Ahsanul_haque_/"><img src="https://img.shields.io/badge/LeetCode-Guardian%202142-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+    <a href="https://www.codechef.com/users/ahsanul_haque"><img src="https://img.shields.io/badge/CodeChef-4%E2%98%85%201900-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  </p>
 
-<div align="center">
-  
-  [![Codeforces](https://img.shields.io/badge/Codeforces-Expert_1774-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ahsan_)
-  [![CodeChef](https://img.shields.io/badge/CodeChef-4%E2%98%85_1900-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ahsanul_haque)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-Guardian_2142-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Ahsanul_haque_/)
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahsanul-haque-8b2485379/)
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@A_h_s_a_n_1)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahsanulhaque5588@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ahsanjust)
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=ahsanjust&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  <p>
+    <a href="https://linkedin.com/in/ahsanul-haque-8b2485379/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://youtube.com/@A_h_s_a_n_1"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
+    <a href="mailto:ahsanulhaque5588@gmail.com"><img src="https://img.shields.io/badge/Email-ahsanulhaque5588%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/ahsanjust"><img src="https://img.shields.io/badge/GitHub-ahsanjust-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  </p>
 </div>
 
 ---
-
-<table>
-<tr>
-<td width="65%">
 
 ### 👨‍💻 About Me
 
-```yaml
-competitive_programmer:
-  problems_solved: 4500+
-  platforms: [Codeforces, CodeChef, LeetCode, AtCoder]
-  peak_ratings:
-    codeforces: 1774 (Expert)
-    codechef: 1900 (4★)
-    leetcode: 2142 (Guardian · Top 1.24%)
-
-icpc:
-  2025: {rank: 34th, team: JUST_ORIONS}
-  2024: {rank: 63rd, team: JUST_TRIPLE_HELIX}
-
-onsite_competitions: 14+ IUPCs across Bangladesh
-
-roles:
-  - Teaching Assistant @ CPS Academy
-  - Problem Setter @ JUST ACM Laboratory
-  - YouTube Creator (CP Screencasts)
-```
-
-</td>
-<td width="35%" align="center">
-
-### 📊 CP Stats
-
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Ahsan_&theme=radical&hide_border=true&disable_animations=true)
-
-**4500+ problems solved across all platforms**
-
-</td>
-</tr>
-</table>
+* 🎓 **B.Sc. in Computer Science & Engineering** at **Jashore University of Science and Technology (JUST)** (2023 – 2027).
+* 🏆 **Competitive Programmer & ICPC Regionalist**: Solved **4,500+ problems** across Codeforces, LeetCode, CodeChef, and AtCoder with consistent performance in top-tier contests.
+* 👨‍🏫 **Teaching Assistant** at **CPS Academy**: Mentoring students on algorithmic problem solving, graph theory, dynamic programming, and structured coding roadmaps.
+* 🎯 **Contest Organizer & Problem Setter**: Actively designing problems and managing competitive programming training at **JUST ACM Laboratory**.
+* 🎥 **Content Creator**: Sharing contest analyses, live screencasts, and algorithmic explanations on [YouTube](https://youtube.com/@A_h_s_a_n_1).
 
 ---
 
-### 🎯 Competitive Programming Highlights
+### 🏆 Competitive Programming Highlights
 
-#### ICPC & International
+#### ICPC & Major Regionals
 | Competition | Rank | Team |
-|:-----------:|:----:|:----:|
-| **ICPC Asia Dhaka Regional 2025** | **34th** 🏅 | JUST_ORIONS |
-| **ICPC Asia Dhaka Regional 2024** | **63rd** 🏅 | JUST_TRIPLE_HELIX |
+|:---|:---:|:---|
+| **ICPC Asia Dhaka Regional Contest 2025** | **34th** 🏅 | JUST_ORIONS |
+| **ICPC Asia Dhaka Regional Contest 2024** | **63rd** 🏅 | JUST_TRIPLE_HELIX |
 
-#### On-Site IUPC Results
-| Competition | Rank | Team |
-|:-----------:|:----:|:----:|
-| **JUST IDPC** | 🥇 **Champion** | JUST_ORIONS |
+#### On-Site Inter-University Contests (IUPC)
+| Competition | Result | Team |
+|:---|:---:|:---|
+| **JUST Intra-Department Programming Contest (IDPC)** | 🥇 **Champion** | JUST_ORIONS |
 | **NWU IUPC 2025** | 🥈 **1st Runner-Up** | JUST_ORIONS |
-| **DRMC IUPC 2025** | 10th | JUST_ORIONS |
-| **KU KRIUPC 2024** | 7th | JUST_TRIPLE_HELIX |
-| **BUET IUPC 2026** | 16th | JUST_ORIONS |
-| **NDUB IUPC 2026** | 11th | JUST_ORIONS |
-| **DUET IUPC 2026** | 15th | JUST_ORIONS |
-| **SUST IUPC 2026** | 13th | JUST_ORIONS |
-| **DUET IUPC 2025** | 19th | JUST_FLARE |
-| **MU IUPC 2025** | 37th | JUST_ORIONS |
+| **KU KRIUPC 2024** | **7th Place** | JUST_TRIPLE_HELIX |
+| **DRMC National Programming Contest 2025** | **10th Place** | JUST_ORIONS |
+| **SUST IUPC 2026** | **13th Place** | JUST_ORIONS |
+| **DUET IUPC 2026** | **15th Place** | JUST_ORIONS |
+| **BUET IUPC 2026** | **16th Place** | JUST_ORIONS |
+| **NDUB IUPC 2026** | **11th Place** | JUST_ORIONS |
 
-#### Individual Achievements
-- 🏆 **Champion** — JUST ACM Lab Farewell Contest (Senior Category, 2026)
-- 🥈 **1st Runner-Up** — JUST ACM Lab Farewell Contest (Senior Category, 2025)
-- 🏆 **Champion** — JUST ACM Lab Farewell Contest (Junior Category, 2024)
+#### Departmental & ACM Lab Honors
+* 🏆 **Champion** — JUST ACM Lab Farewell Contest (Senior Category, 2026)
+* 🥈 **1st Runner-Up** — JUST ACM Lab Farewell Contest (Senior Category, 2025)
+* 🏆 **Champion** — JUST ACM Lab Farewell Contest (Junior Category, 2024)
 
 ---
 
-### 🎓 Education
+### 🛠️ Technical Proficiencies
 
-| Degree | Institution | Year | CGPA |
-|:------:|:-----------:|:----:|:----:|
-| **B.Sc. in CSE** | Jashore University of Science & Technology | 2023 – 2027 (Expected) | **3.52 / 4.00** |
-
-**Relevant Coursework:** Data Structures & Algorithms, Database Systems, OOP, Operating Systems, Computer Networks, Compiler Design & Automata Theory
-
----
-
-### 🛠️ Technical Skills
-
-<div align="center">
-
-| Category | Technologies |
-|:--------:|:------------|
-| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
-
-</div>
+* **Languages**: C++, C, Java, Python, C#, SQL
+* **Algorithms & CS Fundamentals**: Graph Theory, Dynamic Programming, Segment Trees & Fenwick Trees, Number Theory, Linear Data Structures, Object-Oriented Programming (OOP)
+* **Tools & Platforms**: Linux, Git & GitHub, VS Code, Sublime Text, Google Colab
 
 ---
 
 ### 💼 Experience
 
-| Role | Organization | Duration | Key Responsibilities |
-|:----:|:------------:|:--------:|:-------------------|
-| **Teaching Assistant** | CPS Academy | Feb 2025 – Present | Debugging student code, mentoring CP problem-solving, crafting structured roadmaps |
-| **Problem Setter & Volunteer** | JUST ACM Laboratory | 2024 – Present | Setting contest problems, coordinating events, mentoring juniors' camp |
-| **YouTube Creator** | [Ahsan](https://youtube.com/@A_h_s_a_n_1) | 2026 – Present | CP contest screencasts with live commentary (CF, CC, AtCoder, LC) |
+| Role | Organization | Period | Responsibilities |
+|:---|:---|:---:|:---|
+| **Teaching Assistant** | **CPS Academy** | Feb 2025 – Present | Mentoring students in competitive programming, debugging complex code submissions, and conducting problem-solving workshops. |
+| **Problem Setter & Coordinator** | **JUST ACM Laboratory** | 2024 – Present | Setting and testing contest problem sets, managing contest logistics, and training junior competitive programmers. |
+| **Technical Content Creator** | **YouTube** | 2026 – Present | Producing high-quality CP contest screencasts and in-depth video editorials for Codeforces, CodeChef, and LeetCode contests. |
 
 ---
 
-### 📦 Projects
+### 📦 Featured Projects
 
-| Project | Description | Tech Stack |
-|:-------:|:-----------|:----------:|
-| [**CP Code Library**](https://github.com/ahsanjust/Code-library) | Curated collection of templates, algorithms & data structures used across 100+ contests | `C++` |
-| [**CP Leveling**](https://github.com/ahsanjust/cp-leveling) | Gamified CP platform with AI-powered mentoring, XP system & CF integration | — |
-| [**Library Management System**](https://github.com/ahsanjust/LibraryManagementSystem) | Full-stack library management with auth & responsive design | `SQLite` |
-| [**Salary Manager**](https://github.com/ahsanjust/SalaryManager) | Desktop app for managing teacher salary information | `C#` `.NET` |
+* [**CP Code Library**](https://github.com/ahsanjust/Code-library) — A battle-tested library of reusable C++ templates, advanced data structures, and algorithmic routines used across 150+ official contests.
+* [**CP Leveling**](https://github.com/ahsanjust/cp-leveling) — A gamified competitive programming web platform featuring automated problem recommendations, XP progression, and Codeforces integration.
+* [**Library Management System**](https://github.com/ahsanjust/LibraryManagementSystem) — Full-featured library records management application with persistent SQLite storage and clean workflow architecture.
+* [**Teacher Salary Manager**](https://github.com/ahsanjust/SalaryManager) — Desktop software developed with C# and .NET for automated payroll processing and institutional record keeping.
 
 ---
 
-### 📈 GitHub Analytics
+### 📊 Competitive Programming & GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ahsanjust&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanjust&layout=compact&theme=radical&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=ahsanjust&theme=radical&hide_border=true" />
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-<div align="center">
-
-*"Consistency over intensity — show up every day."*
-
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Ahsan_&theme=github_dark&hide_border=true&disable_animations=true" alt="Codeforces Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahsanjust&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanjust&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </div>
